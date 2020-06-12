@@ -605,9 +605,9 @@ div#content {
 
 h1 {
   margin: 0;
-  font-weight: normal;
-  font-size: 25px;
-  line-height: 30px;
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 60px;
 	color: #404040;
 }
 
@@ -622,9 +622,9 @@ a:hover {
 
 h3 {
 	margin: 0;
-	font-weight: 100;
-	font-size: 14px;
-	line-height: 19px;
+	font-weight: 300;
+	font-size: 36px;
+	line-height: 36px;
 	letter-spacing: .5px;
 	color: #404040;
 }
