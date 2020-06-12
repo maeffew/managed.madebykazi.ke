@@ -4,3 +4,8 @@ h1 {
     line-height: 60px;
     color: #404040;
 }
+
+* {
+
+    color: rgb(66, 66, 66);
+}
