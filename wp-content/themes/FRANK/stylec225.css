@@ -608,11 +608,11 @@ h1 {
   font-weight: normal;
   font-size: 25px;
   line-height: 30px;
-	color: #867448;
+	color: rgb(66, 66, 66);
 }
 
 a {
-	color: #867448;
+	color: rgb(66, 66, 66);
 	text-decoration: none;
 }
 
@@ -626,13 +626,13 @@ h3 {
 	font-size: 14px;
 	line-height: 19px;
 	letter-spacing: .5px;
-	color: #867448;
+	color: rgb(66, 66, 66);
 }
 
 span, p {
 	font-size: 10px;
 	line-height: 14px;
-	color: #867448;
+	color: rgb(66, 66, 66);
 	letter-spacing: .5px;
 }
 
@@ -758,7 +758,7 @@ header#masthead {
 }
 
 .navigation {
-	color: #867448;
+	color: rgb(66, 66, 66);
 	font-size: 10px;
 	line-height: 14px;
 	letter-spacing: .5px;
@@ -773,7 +773,7 @@ header#masthead {
 }
 
 .home-menu {
-	color: #867448;
+	color: rgb(66, 66, 66);
 	padding:  8.5px 3.5px 6.5px 20px;
 	border-bottom: 1px solid #867448;
 }
@@ -790,7 +790,7 @@ header#masthead {
 }
 
 .home-menu ul li a {
-	color: #867448;
+	color: rgb(66, 66, 66);
 	text-decoration: none;
 }
 
@@ -827,22 +827,22 @@ input#search-input {
 }
 
 input#search-input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
-	color: #867448;
+	color: rgb(66, 66, 66);
 	letter-spacing: .5px;
 }
 
 input#search-input::-moz-placeholder { /* Firefox 19+ */
-	color: #867448;
+	color: rgb(66, 66, 66);
 	letter-spacing: .5px;
 }
 
 input#search-input:-ms-input-placeholder { /* IE 10+ */
-	color: #867448;
+	color: rgb(66, 66, 66);
 	letter-spacing: .5px;
 }
 
 input#search-input:-moz-placeholder { /* Firefox 18- */
-	color: #867448;
+	color: rgb(66, 66, 66);
 	letter-spacing: .5px;
 }
 
@@ -891,7 +891,7 @@ input#search-input:-moz-placeholder { /* Firefox 18- */
 }
 
 footer {
-	color: #867448;
+	color: rgb(66, 66, 66);
   font-size: 9px;
 }
 
@@ -1113,7 +1113,7 @@ textarea {
 	font-weight: 100;
 	font-size: 10px;
 	line-height: 14px;
-	color: #867448;
+	color: rgb(66, 66, 66);
 	border: 1px solid #867448;
 	border-radius: 0;
 	padding: 5px;
@@ -1138,7 +1138,7 @@ input[type="datetime"]:focus,
 input[type="datetime-local"]:focus,
 input[type="color"]:focus,
 textarea:focus {
-	color: #867448;
+	color: rgb(66, 66, 66);
 }
 
 input[type="submit"] {
@@ -1146,7 +1146,7 @@ input[type="submit"] {
 	font-weight: 100;
 	font-size: 10px;
 	line-height: 14px;
-	color: #867448;
+	color: rgb(66, 66, 66);
 	background: transparent;
 	width: 100%;
 	border-radius: 0;
@@ -1157,28 +1157,28 @@ input[type="submit"] {
 }
 
 input[type="submit"]:hover {
-	color: #867448;
+	color: rgb(66, 66, 66);
 	border: 1px solid #867448;
 	cursor: pointer;
 }
 
 ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
-	color: #867448;
+	color: rgb(66, 66, 66);
   color: #8674487a;
 	letter-spacing: .5px;
 }
 ::-moz-placeholder { /* Firefox 19+ */
-	color: #867448;
+	color: rgb(66, 66, 66);
   color: #8674487a;
 	letter-spacing: .5px;
 }
 :-ms-input-placeholder { /* IE 10+ */
-	color: #867448;
+	color: rgb(66, 66, 66);
   color: #8674487a;
 	letter-spacing: .5px;
 }
 :-moz-placeholder { /* Firefox 18- */
-	color: #867448;
+	color: rgb(66, 66, 66);
   color: #8674487a;
 	letter-spacing: .5px;
 }
@@ -1278,7 +1278,7 @@ div#mc_embed_signup_scroll label {
   border-radius: 0;
   border: 1px solid #867448;
   background: transparent;
-  color: #867448;
+  color: rgb(66, 66, 66);
   margin-top: -52px!important;
   font-size: 10px!important;
   line-height: 26px;
@@ -1531,7 +1531,7 @@ aside#secondary h2, aside#secondary a {
 aside#secondary h2 {
 	font-weight: bold;
 	margin: 0;
-	color: #867448;
+	color: rgb(66, 66, 66);
 }
 
 aside#secondary ul {
@@ -1622,7 +1622,7 @@ select.orderby {
   border-radius: 0;
   border: none;
   border-bottom: 1px solid #867448;
-	color: #867448;
+	color: rgb(66, 66, 66);
 	font-size: 10px;
 	line-height: 14px;
 	letter-spacing: .5px;
@@ -1649,7 +1649,7 @@ h2.woocommerce-loop-product__title {
   font-weight: normal;
   padding: 0 0 10px 0;
   border-bottom: 1px solid #867448;
-	color: #867448;
+	color: rgb(66, 66, 66);
 }
 
 .woocommerce ul.products[class*=columns-] li.product,
@@ -1684,7 +1684,7 @@ table.variations select {
   letter-spacing: .5px;
 	background: url('images/arrow.svg') no-repeat center right;
 	background-size: 7px;
-	color: #867448;
+	color: rgb(66, 66, 66);
 }
 
 .single_variation_wrap {
@@ -1720,7 +1720,7 @@ td.label {
 	width: 20%;
 	font-weight: bold;
   float: left;
-	color: #867448;
+	color: rgb(66, 66, 66);
 }
 
 td.value {
@@ -1754,7 +1754,7 @@ a.reset_variations {
 button.single_add_to_cart_button.button,
 button.single_add_to_cart_button.button.disabled.wc-variation-selection-needed {
 	width: 100%;
-	color: #867448;
+	color: rgb(66, 66, 66);
 	border-radius: 0;
 	background: transparent!important;
 	font-size: 14px;
@@ -1953,7 +1953,7 @@ td.product-remove {
   border-collapse: separate;
   border-radius: 0;
 	font-size: 10px;
-	color: #867448;
+	color: rgb(66, 66, 66);
 }
 
 dl.variation {
@@ -2063,7 +2063,7 @@ body.woocommerce-cart span.woocommerce-Price-currencySymbol {
 	margin: 0;
 	border-bottom: 1px solid #867448;
 	padding-bottom: 10px;
-	color: #867448;
+	color: rgb(66, 66, 66);
 	text-transform: capitalize;
 }
 
@@ -2084,7 +2084,7 @@ body.woocommerce-cart span.woocommerce-Price-currencySymbol {
 	border: none;
 	font-size: 14px;
 	font-weight: bold;
-	color: #867448;
+	color: rgb(66, 66, 66);
 }
 
 .paypal-button.paypal-button-layout-vertical {
@@ -2159,11 +2159,11 @@ p.return-to-shop a {
   background-color: transparent;
   border: 1px solid #867448;
   border-radius: 0;
-  color: #867448;
+  color: rgb(66, 66, 66);
 }
 
 .select2-container--default .select2-selection--single .select2-selection__rendered {
-  color: #867448;
+  color: rgb(66, 66, 66);
 }
 
 .select2-container--default .select2-selection--single .select2-selection__arrow b {
@@ -2278,7 +2278,7 @@ label[for="payment_method_stripe"] {
   line-height: normal;
   margin: 0;
   display: inline-block;
-	color: #867448;
+	color: rgb(66, 66, 66);
 	font-weight: bold;
 }
 
@@ -2292,7 +2292,7 @@ label[for="payment_method_stripe"] img {
 }
 
 fieldset#wc-stripe-cc-form label {
-	color: #867448;
+	color: rgb(66, 66, 66);
 }
 
 .InputElement::-webkit-input-placeholder {
@@ -2395,7 +2395,7 @@ a.about_paypal {
   margin-bottom: 0;
   border-radius: 0;
   border: 1px solid #867448;
-  color: #867448;
+  color: rgb(66, 66, 66);
   background: transparent;
 	margin-top: 40px;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -2436,17 +2436,17 @@ nav.woocommerce-MyAccount-navigation ul {
 }
 
 body.woocommerce-account, body.woocommerce-account a, body.woocommerce-account p {
-	color: #867448;
+	color: rgb(66, 66, 66);
 }
 
 body.woocommerce-account .woocommerce-info {
-	color: #867448;
+	color: rgb(66, 66, 66);
 }
 
 a.woocommerce-Button.button {
 	font-style: normal;
 	text-transform: capitalize;
-	color: #867448;
+	color: rgb(66, 66, 66);
 	background: transparent;
 	padding: 0;
 	margin: 0;
@@ -2483,7 +2483,7 @@ button.woocommerce-Button.button[name="save_account_details"],
 	padding: 0;
 	margin: 0;
 	background: transparent;
-	color: #867448;
+	color: rgb(66, 66, 66);
 	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 	letter-spacing: .25px;
 	margin-top: 20px;
@@ -2512,14 +2512,14 @@ header.woocommerce-Address-title.title {
 
 td.woocommerce-orders-table__cell.woocommerce-orders-table__cell-order-uploads a,
 td.woocommerce-orders-table__cell.woocommerce-orders-table__cell-order-actions a {
-  color: #867448;
+  color: rgb(66, 66, 66);
   background: transparent;
   padding: 0;
   margin: 0;
 }
 
 mark, ins {
-	color: #867448;
+	color: rgb(66, 66, 66);
   background: transparent;
   text-decoration: underline;
 }
@@ -2549,7 +2549,7 @@ table.woocommerce-table.woocommerce-table--order-details.shop_table.order_detail
 #wpf-umf-upload-boxes .wpf-umf-item-product-item-number {
   text-align: left;
   background: transparent;
-  color: #867448;
+  color: rgb(66, 66, 66);
   padding: 0;
   font-size: 14px;
 }
@@ -2561,7 +2561,7 @@ div#wpf-umf-upload-boxes fieldset {
 .wpf-umf-single-upload .wpf-umf-single-upload-title {
   font-weight: bold;
   font-size: 14px;
-	color: #867448;
+	color: rgb(66, 66, 66);
   margin-bottom: 40px;
 }
 
@@ -2574,7 +2574,7 @@ div#wpf-umf-upload-boxes fieldset {
 	font-weight: 100;
 	font-size: 10px;
 	line-height: 14px;
-	color: #867448;
+	color: rgb(66, 66, 66);
 	background: transparent;
 	width: 100%;
 	border-radius: 0;
@@ -2591,7 +2591,7 @@ div#wpf-umf-upload-boxes fieldset {
 	font-weight: 100;
 	font-size: 10px;
 	line-height: 14px;
-	color: #867448;
+	color: rgb(66, 66, 66);
 	background: transparent;
 	width: 100%;
 	border-radius: 0;
@@ -2604,11 +2604,11 @@ div#wpf-umf-upload-boxes fieldset {
 
 .wpf-umf-single-upload-buttons a.button:hover {
 	background: transparent;
-	color: #867448;
+	color: rgb(66, 66, 66);
 }
 
 .wpf-umf-single-upload .wpf-umf-single-upload-notice {
-  color: #867448;
+  color: rgb(66, 66, 66);
   margin-top: 20px;
   font-size: 10px;
   background: transparent;
@@ -2647,13 +2647,13 @@ div.wpf-umf-single-upload-field {
 .wpf-umf-single-uploaded-file .wpf-umf-suf-file-name {
   font-weight: bold;
   font-size: 10px;
-	color: #867448;
+	color: rgb(66, 66, 66);
 }
 
 .wpf-umf-single-uploaded-file .wpf-umf-suf-file-status {
   font-size: 10px;
   margin-top: 5px;
-	color: #867448;
+	color: rgb(66, 66, 66);
 }
 
 .on-hold .wpf-umf-suf-file-status .dashicons-marker {
@@ -2697,14 +2697,14 @@ ul.woocommerce-order-overview.woocommerce-thankyou-order-details.order_details {
 ul.woocommerce-order-overview.woocommerce-thankyou-order-details.order_details li {
   font-size: 10px;
 	text-transform: capitalize;
-	color: #867448;
+	color: rgb(66, 66, 66);
 	border-right: none;
 }
 
 ul.woocommerce-order-overview.woocommerce-thankyou-order-details.order_details li strong,
 ul.woocommerce-order-overview.woocommerce-thankyou-order-details.order_details li strong span {
   font-size: 10px;
-	color: #867448;
+	color: rgb(66, 66, 66);
 }
 
 ul.woocommerce-order-overview.woocommerce-thankyou-order-details.order_details li {
@@ -2713,13 +2713,13 @@ ul.woocommerce-order-overview.woocommerce-thankyou-order-details.order_details l
   width: 100%;
   display: block;
   margin-bottom: 20px;
-	color: #867448;
+	color: rgb(66, 66, 66);
 }
 
 h2.woocommerce-order-details__title, h2.woocommerce-column__title {
   font-size: 14px;
   text-transform: capitalize;
-	color: #867448;
+	color: rgb(66, 66, 66);
 	font-weight: normal;
 	margin: 0;
 	margin-bottom: 20px;
@@ -2770,7 +2770,7 @@ table.woocommerce-table.woocommerce-table--order-details.shop_table.order_detail
   margin: 0;
   font-size: 10px;
   line-height: 14px;
-	color: #867448;
+	color: rgb(66, 66, 66);
 }
 
 .woocommerce .woocommerce-customer-details .woocommerce-customer-details--phone::before,
@@ -2854,7 +2854,7 @@ button.woocommerce-Button.button[name="login"] {
   font-weight: 100;
   font-size: 10px;
   line-height: 14px;
-  color: #867448;
+  color: rgb(66, 66, 66);
   background: transparent;
   width: 100%;
   border-radius: 0;
